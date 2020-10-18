@@ -1,0 +1,45 @@
+nav {
+    width: 100%;
+    margin-top: 2px;
+    opacity: 0.9;
+    background-color: #FFFFFF;
+}
+nav a{
+	
+	text-transform:uppercase;
+	color:#000000;
+	padding:12px;
+	margin:0px;
+	border-radius:5px;
+	transition:0.4s;
+}
+
+a:hover{
+	background-color:#008844;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+div{
+    float: right;
+    font-size: 10px;
+    font-weight: 900;
+}
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+input{
+    display: none;
+}
+a{
+    text-transform: uppercase;
+    color: #000000;
+    padding: 12px;
+    margin: 0px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: 0.4s;
+}
